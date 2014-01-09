@@ -1,0 +1,85 @@
+<html manifest="offline/cache.manifest">
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CHIN 041</title>
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/>
+	<meta name="author" content="Zac Eskelsen"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<link type="text/css" rel="apple-touch-icon-precomposed" href="images/chinese-app-icon.png?v=1" />
+	<link rel="stylesheet" type="text/css" href="all.css">
+	<link rel="stylesheet" type="text/css" href="Quiz.css">
+    <link rel="stylesheet" type="text/css" href="Quiz_Menu.css">
+	<script type="text/javascript" src="includes/assets/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="includes/assets/jquery.jplayer.min.js"></script>  <!--included for jplayer-->
+	<script type="text/javascript" src="includes/assets/jquery.stayInWebApp.min.js"></script> <!--all html pages must contain all the same scripts or the page will leave the app-->
+	<script type="text/javascript" src="http://isdev.byu.edu/is/share/HTML_Resources/JavaScript/debug.lib.js"></script>
+	<script type="text/javascript" src="includes/assets/iPad.js"></script>
+	<script type="text/javascript" src="includes/assets/question.js"></script>
+	<script type="text/javascript" src="includes/assets/Quiz-a.js"></script>
+	<script type="text/javascript" src="includes/assets/application-cache.js"></script>	
+	<script>
+	IsLog.on();
+	IsLog.timerOn();
+	/*
+		jplayer configuration options
+	*/
+	//	These should be set to the ID of their corresponding elements.
+	var jplayerElementId = "#jPlayer";
+	var playButtonId = "#playMe-notrequiredforthispage";
+	var clickableElementHolder = "#character-list";
+	var clickableElementType = "div";
+	var defaultElementClasses = "thumbnails";
+	var clickableElementClasses = "click_background";
+	var contentElementType = "h3";
+	var clickableElementContentKey = "chinese-character"; //"chinese-character";
+	var clickableElementTitleKey = "translation";
+	var addWhiteSpaceToOutput = true;
+	//	This should be the path to your "default" mp3 file.
+	var singleAudioFile = "audio/All-Chinese.mp3";
+	//	This should be the path to your config json file.
+	var jsonConfigFile = "includes/assets/characters.json";
+	</script>
+	<script type="text/javascript" src="includes/assets/jplayer_config.js"></script>
+</head>
+<body>
+	<div class="page">		<!--This Div is used for iPad access only (in iPad.js)-->
+		<div class="home_main">
+			<h1>Chinese</h1>
+				<div class="home_main_content">
+					<p>In this class you will be having the time of your life learing new Chinese characters</p>
+					<p><strong>Be sure to have fun!</strong></p>
+				</div>
+		</div>
+			<div align="right" class="home_right">
+                <!--<img class="beautiful1" src="images/beautiful.png" width="80" height="90" />
+                <img class="friendship1" src="images/friendship.png" width="60" height="65"/>
+                <img class="truth1" src="images/truth.png" width="70" height="75"/>
+                <img class="wisdom1" src="images/wisdom.png" width="150" height="170"/>-->
+			</div>
+			<div class="filler2">
+				&nbsp;
+			</div>		
+			<div class="filler3">
+				&nbsp;
+			</div>
+			<header></header>
+			<nav>
+				<ul>
+					<li class="iPhoneMenu" showId="iPhoneMenuList"><span>Menu</span>
+						<ul id="iPhoneMenuList">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="vocab.html">Vocabulary</a></li>
+							<li><a href="Quiz_Menu.html">Quiz</a></li>
+							<li><a href="contact_us.html">Contact Us</a></li>
+							<li><a href="help_page.html">Help Page</a></li>
+						</ul>
+					</li>
+				</ul>
+			</nav>
+			<footer><span>&copy;Brigham Young University</span></footer>
+	</div>
+</body>
+</html>

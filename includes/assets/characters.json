@@ -1,0 +1,1088 @@
+{
+	"Numbers&nbsp;0-10": [
+		{
+			"chinese-character":"零",
+			"pronunciation":"líng",
+			"translation":"zero",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/chin-041-chin/numbers_0-10/zero-chinese-ling.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	0,
+			"stop-time":	0.555
+		},
+		{
+			"chinese-character":"一",
+			"pronunciation":"yī",
+			"translation":"one",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/chin-041-chin/numbers_0-10/one-chinese-yi.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	5.696,
+			"stop-time":	6.254
+		},
+		{
+			"chinese-character":"二",
+			"pronunciation":"èr",
+			"translation":"two",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/chin-041-chin/numbers_0-10/two-chinese-er.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	12.423,
+			"stop-time":	12.852
+		},
+		{
+			"chinese-character":"三",
+			"pronunciation":"sān",
+			"translation":"three",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/chin-041-chin/numbers_0-10/three-chinese-san.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	11.01,
+			"stop-time":	11.578
+		},
+		{
+			"chinese-character":"四",
+			"pronunciation":"sì",
+			"translation":"four",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/chin-041-chin/numbers_0-10/four-chinese-si.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	2.785,
+			"stop-time":	3.365
+		},
+		{
+			"chinese-character":"五",
+			"pronunciation":"wǔ",
+			"translation":"five",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/chin-041-chin/numbers_0-10/five-chinese-wu.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	1.441,
+			"stop-time":	2.043
+		},
+		{
+			"chinese-character":"六",
+			"pronunciation":"liù",
+			"translation":"six",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/chin-041-chin/numbers_0-10/six-chinese-liu.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	8.374,
+			"stop-time":	8.899
+		},
+		{
+			"chinese-character":"七",
+			"pronunciation":"qī",
+			"translation":"seven",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/chin-041-chin/numbers_0-10/seven-chinese-qi.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	7.08,
+			"stop-time":	7.59
+		},
+		{
+			"chinese-character":"八",
+			"pronunciation":"bā",
+			"translation":"eight",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/chin-041-chin/numbers_0-10/eight-chinese-ba.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	0.223,
+			"stop-time":	0.629
+		},
+		{
+			"chinese-character":"九",
+			"pronunciation":"jiǔ",
+			"translation":"nine",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/chin-041-chin/numbers_0-10/nine-chinese-jiu.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	4.156,
+			"stop-time":	4.863
+		},
+		{
+			"chinese-character":"十",
+			"pronunciation":"shí",
+			"translation":"ten",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/chin-041-chin/numbers_0-10/ten-chinese-shi.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	9.674,
+			"stop-time":	10.255
+		}
+	],
+	"Lesson&nbsp;1":[
+		{
+			"chinese-character":"你",
+			"pronunciation":"nǐ",
+			"translation":"you",
+			"lesson":"Lesson&nbsp;1",
+			"mp3": "audio/chin-041-chin/lesson_1/you-chinese-ni.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time": 34.64020592,
+			"stop-time": 35.6840769
+		},
+		{
+			"chinese-character":"好",
+			"pronunciation":"hǎo",
+			"translation":"good",
+			"lesson":"Lesson&nbsp;1",
+			"mp3": "audio/chin-041-chin/lesson_1/good-chinese-hao.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time": 18.18496637,
+			"stop-time": 19.22883735
+		},
+		{
+			"chinese-character":"是",
+			"pronunciation":"shì",
+			"translation":"to be, (affirmative answer)&nbsp;yes",
+			"lesson":"Lesson&nbsp;1",
+			"mp3": "audio/chin-041-chin/lesson_1/to-be-yes-chinese-shi.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time": 31.71002747,
+			"stop-time": 32.67560812
+		},
+		{
+			"chinese-character":"学",
+			"pronunciation":"xué",
+			"translation":"to study, to&nbsp;learn",
+			"lesson":"Lesson&nbsp;1",
+			"mp3": "audio/chin-041-chin/lesson_1/to-study-to-learn-chinese-xue.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time": 33.17511669,
+			"stop-time": 34.14069735
+		},
+		{
+			"chinese-character":"学生",
+			"pronunciation":"xuéshēng",
+			"translation":"student",
+			"lesson":"Lesson&nbsp;1",
+			"mp3": "audio/chin-041-chin/lesson_1/student-chinese-xuesheng.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time": 27.91865546,
+			"stop-time": 29.19739741
+		},
+		{
+			"chinese-character":"吗",
+			"pronunciation":"ma",
+			"translation":"? (used at the end of a declarative sentence to transform it into a&nbsp;question)",
+			"lesson":"Lesson&nbsp;1",
+			"mp3": "audio/chin-041-chin/lesson_1/question-chinese-ma.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time": 25.22334798,
+			"stop-time": 26.50575979
+		},
+		{
+			"chinese-character":"我",
+			"pronunciation":"wǒ",
+			"translation":"I,&nbsp;me",
+			"lesson":"Lesson&nbsp;1",
+			"mp3": "audio/chin-041-chin/lesson_1/I-me-chinese-wo.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time": 21.19343515,
+			"stop-time": 22.1590158
+		},
+		{
+			"chinese-character":"呢",
+			"pronunciation":"ne",
+			"translation":"(used at the end of an interrogative&nbsp;sentence)",
+			"lesson":"Lesson&nbsp;1",
+			"mp3": "audio/chin-041-chin/lesson_1/iterrogative-ending-chinese-ne.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time": 22.65852437,
+			"stop-time": 23.4414276
+		},
+		{
+			"chinese-character":"也",
+			"pronunciation":"yě",
+			"translation":"also",
+			"lesson":"Lesson&nbsp;1",
+			"mp3": "audio/chin-041-chin/lesson_1/also-chinese-ye.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time": 14.75894921,
+			"stop-time": 15.85501373
+		},
+		{
+			"chinese-character":"他",
+			"pronunciation":"tā",
+			"translation":"he,&nbsp;him",
+			"lesson":"Lesson&nbsp;1",
+			"mp3": "audio/chin-041-chin/lesson_1/he-him-chinese-ta.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time": 19.72834592,
+			"stop-time": 20.69392658
+		},
+		{
+			"chinese-character":"不",
+			"pronunciation":"bù",
+			"translation":"(used to form negative) not,&nbsp;no",
+			"lesson":"Lesson&nbsp;1",
+			"mp3": "audio/chin-041-chin/lesson_1/not-no-chinese-bu.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time": 23.94093618,
+			"stop-time": 24.72383941
+		},
+		{
+			"chinese-character":"老师",
+			"pronunciation":"lǎoshī",
+			"translation":"teacher",
+			"lesson":"Lesson&nbsp;1",
+			"mp3": "audio/chin-041-chin/lesson_1/teacher-chinese-laoshi.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time": 29.69690598,
+			"stop-time": 31.2105189
+		},
+		{
+			"chinese-character":"中文",
+			"pronunciation":"Zhōngwén",
+			"translation":"Chinese&nbsp;(language)",
+			"lesson":"Lesson&nbsp;1",
+			"mp3": "audio/chin-041-chin/lesson_1/chinese-language-chinese-Zhongwen.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time": 16.35452231,
+			"stop-time": 17.6854578
+		},
+		{
+			"chinese-character":"她",
+			"pronunciation":"tā",
+			"translation":"she,&nbsp;her",
+			"lesson":"Lesson&nbsp;1",
+			"mp3": "audio/chin-041-chin/lesson_1/she-her-chinese-ta.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time": 26.50575979,
+			"stop-time": 27.41914689
+		}
+	],
+		"Lesson&nbsp;2": [
+		{
+			"chinese-character":"您",
+			"pronunciation":"nín",
+			"translation":"(polite)&nbsp;you",
+			"lesson":"Lesson&nbsp;2",
+			"mp3": "audio/chin-041-chin/lesson_2/you-polite-chinese-nin.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	53.19052713,
+			"stop-time":	54.10391424
+		},
+		{
+			"chinese-character":"贵",
+			"pronunciation":"guì",
+			"translation":"noble, honored,&nbsp;expensive",
+			"lesson":"Lesson&nbsp;2",
+			"mp3": "audio/chin-041-chin/lesson_2/noble-honored-expensive-chinese-gui.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	39.60960263,
+			"stop-time":	40.36640909
+		},
+		{
+			"chinese-character":"姓",
+			"pronunciation":"xìng",
+			"translation":"surname, family name, have as a&nbsp;surname",
+			"lesson":"Lesson&nbsp;2",
+			"mp3": "audio/chin-041-chin/lesson_2/surname-familyname-chinese-xing.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	43.63951547,
+			"stop-time":	44.55290257
+		},
+		{
+			"chinese-character":"请",
+			"pronunciation":"qǐng",
+			"translation":"(polite)&nbsp;please",
+			"lesson":"Lesson&nbsp;2",
+			"mp3": "audio/chin-041-chin/lesson_2/please-polite-chinese-qing.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	40.86591766,
+			"stop-time":	41.85759509
+		},
+		{
+			"chinese-character":"问",
+			"pronunciation":"wèn",
+			"translation":"to&nbsp;ask",
+			"lesson":"Lesson&nbsp;2",
+			"mp3": "audio/chin-041-chin/lesson_2/to-ask-chinese-wen.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	45.05241114,
+			"stop-time":	45.75702405
+		},
+		{
+			"chinese-character":"的",
+			"pronunciation":"de",
+			"translation":"(a structural particle used to show&nbsp;possession)",
+			"lesson":"Lesson&nbsp;2",
+			"mp3": "audio/chin-041-chin/lesson_2/to-show-possession-chinese-de.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	47.59113798,
+			"stop-time":	48.16526701
+		},
+		{
+			"chinese-character":"英文",
+			"pronunciation":"Yīngwén",
+			"translation":"English&nbsp;(language)",
+			"lesson":"Lesson&nbsp;2",
+			"mp3": "audio/chin-041-chin/lesson_2/Yingwen-EnglishLanguage-Chinese.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	51.36008307,
+			"stop-time":	52.69101856
+		},
+		{
+			"chinese-character":"名字",
+			"pronunciation":"míngzi",
+			"translation":"name",
+			"lesson":"Lesson&nbsp;2",
+			"mp3": "audio/chin-041-chin/lesson_2/name-chinese-mingzi.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	37.80525534,
+			"stop-time":	39.11009406
+		},
+		{
+			"chinese-character":"叫",
+			"pronunciation":"jiào",
+			"translation":"to call, to be&nbsp;called",
+			"lesson":"Lesson&nbsp;2",
+			"mp3": "audio/chin-041-chin/lesson_2/to-call-be-called-chinese-jiao.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	46.25653262,
+			"stop-time":	47.0916294
+		},
+		{
+			"chinese-character":"什么",
+			"pronunciation":"shénme",
+			"translation":"what?",
+			"lesson":"Lesson&nbsp;2",
+			"mp3": "audio/chin-041-chin/lesson_2/what-chinese-shenme.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	48.66477559,
+			"stop-time":	49.57816269
+		},
+		{
+			"chinese-character":"谁",
+			"pronunciation":"shéi",
+			"translation":"who,&nbsp;whom?",
+			"lesson":"Lesson&nbsp;2",
+			"mp3": "audio/chin-041-chin/lesson_2/who-whom-chinese-shei.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	50.07767126,
+			"stop-time":	50.8605745
+		},
+		{
+			"chinese-character":"同学",
+			"pronunciation":"tóngxué",
+			"translation":"classmate",
+			"lesson":"Lesson&nbsp;2",
+			"mp3": "audio/chin-041-chin/lesson_2/classmate-chinese-tongxue.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	36.18358547,
+			"stop-time":	37.30574677
+		},
+		{
+			"chinese-character":"同",
+			"pronunciation":"tóng",
+			"translation":"same,&nbsp;similar",
+			"lesson":"Lesson&nbsp;2",
+			"mp3": "audio/chin-041-chin/lesson_2/same-similar-chinese-tong.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	42.35710366,
+			"stop-time":	43.14000689
+		}
+	],
+	"Lesson&nbsp;3": [
+		{
+			"chinese-character":"哪",
+			"pronunciation":"nǎ",
+			"translation":"which",
+			"lesson":"Lesson&nbsp;3",
+			"mp3": "audio/chin-041-chin/lesson_3/which-chinese-na.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	70.22356558,
+			"stop-time":	71.26743655
+		},
+		{
+			"chinese-character":"国",
+			"pronunciation":"guó",
+			"translation":"country",
+			"lesson":"Lesson&nbsp;3",
+			"mp3": "audio/chin-041-chin/lesson_3/country-chinese-guo.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	60.35939261,
+			"stop-time":	61.22058617
+		},
+		{
+			"chinese-character":"人",
+			"pronunciation":"rén",
+			"translation":"person",
+			"lesson":"Lesson&nbsp;3",
+			"mp3": "audio/chin-041-chin/lesson_3/person-chinese-ren.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	64.441499,
+			"stop-time":	65.19830546
+		},
+		{
+			"chinese-character":"很",
+			"pronunciation":"hěn",
+			"translation":"very,&nbsp;quite",
+			"lesson":"Lesson&nbsp;3",
+			"mp3": "audio/chin-041-chin/lesson_3/very-quite-chinese-hen.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	68.86286345,
+			"stop-time":	69.724057
+		},
+		{
+			"chinese-character":"对了",
+			"pronunciation":"duìle",
+			"translation":"by the way (a phrase used to start a new&nbsp;topic)",
+			"lesson":"Lesson&nbsp;3",
+			"mp3": "audio/chin-041-chin/lesson_3/by-the-way-chinese-duile.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	59.02478726,
+			"stop-time":	59.85988404
+		},
+		{
+			"chinese-character":"说",
+			"pronunciation":"shuō",
+			"translation":"to&nbsp;speak",
+			"lesson":"Lesson&nbsp;3",
+			"mp3": "audio/chin-041-chin/lesson_3/to-speak-chinese-shuo.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	65.69781403,
+			"stop-time":	66.55900758
+		},
+		{
+			"chinese-character":"会",
+			"pronunciation":"huì",
+			"translation":"can, be able to, know how&nbsp;to",
+			"lesson":"Lesson&nbsp;3",
+			"mp3": "audio/chin-041-chin/lesson_3/know-how-to-chinese-hui.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	63.26347429,
+			"stop-time":	64.441499
+		},
+		{
+			"chinese-character":"一点儿",
+			"pronunciation":"yīdiǎr",
+			"translation":"a&nbsp;little",
+			"lesson":"Lesson&nbsp;3",
+			"mp3": "audio/chin-041-chin/lesson_3/a-little-chinese-yidiar.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	54.60342281,
+			"stop-time":	55.62119701
+		},
+		{
+			"chinese-character":"和",
+			"pronunciation":"hé",
+			"translation":"and",
+			"lesson":"Lesson&nbsp;3",
+			"mp3": "audio/chin-041-chin/lesson_3/and-chinese-he.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	56.12070559,
+			"stop-time":	57.03409269
+		},
+		{
+			"chinese-character":"美国",
+			"pronunciation":"Měiguó",
+			"translation":"United&nbsp;States",
+			"lesson":"Lesson&nbsp;3",
+			"mp3": "audio/chin-041-chin/lesson_3/united-states-chinese-Meiguo.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	67.05851616,
+			"stop-time":	68.36335488
+		},
+		{
+			"chinese-character":"英国",
+			"pronunciation":"Yīngguó",
+			"translation":"Britain",
+			"lesson":"Lesson&nbsp;3",
+			"mp3": "audio/chin-041-chin/lesson_3/britain-chinese-Yingguo.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	57.53360126,
+			"stop-time":	58.52527869
+		},
+		{
+			"chinese-character":"法国",
+			"pronunciation":"Fǎguó",
+			"translation":"France",
+			"lesson":"Lesson&nbsp;3",
+			"mp3": "audio/chin-041-chin/lesson_3/france-chinese-faguo.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	61.72009474,
+			"stop-time":	62.76396572
+		}
+	],
+	"Lesson&nbsp;4": [
+		{
+			"chinese-character":"月",
+			"pronunciation":"yuè",
+			"translation":"month",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/month-chinese-yue.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	84.54750058,
+			"stop-time":	85.36320601
+		},
+		{
+			"chinese-character":"号",
+			"pronunciation":"háo",
+			"translation":"day of a&nbsp;month",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/day-of-month-chinese-hao.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	18.18496637,
+			"stop-time":	19.22883735
+		},
+		{
+			"chinese-character":"那",
+			"pronunciation":"nà",
+			"translation":"that",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/that-chinese-na.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	70.22356558,
+			"stop-time":	71.26743655
+		},
+		{
+			"chinese-character":"书",
+			"pronunciation":"shū",
+			"translation":"book",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/book-chinese-shu.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	71.76694512,
+			"stop-time":	72.49153838
+		},
+		{
+			"chinese-character":"这",
+			"pronunciation":"zhè",
+			"translation":"this",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/this-chinese-zhe.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	88.03094424,
+			"stop-time":	88.55856575
+		},
+		{
+			"chinese-character":"本",
+			"pronunciation":"běn",
+			"translation":"(measure word for bound items such as books and&nbsp;magazines)",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/measure-word-bound-items-chinese-ben.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	83.33948271,
+			"stop-time":	84.04799201
+		},
+		{
+			"chinese-character":"文学",
+			"pronunciation":"wénxué",
+			"translation":"literature",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/literature-chinese-wenxue.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	80.48961074,
+			"stop-time":	81.662108
+		},
+		{
+			"chinese-character":"难",
+			"pronunciation":"nán",
+			"translation":"difficult",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/difficult-chinese-nan.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	76.55481974,
+			"stop-time":	77.15780927
+		},
+		{
+			"chinese-character":"太",
+			"pronunciation":"tài",
+			"translation":"too",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/too-chinese-tai.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	90.10026894,
+			"stop-time":	90.78476559
+		},
+		{
+			"chinese-character":"可是",
+			"pronunciation":"kěshì",
+			"translation":"but, yet,&nbsp;however",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/but-yet-however-chinese-keshi.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	74.07845786,
+			"stop-time":	75.05833284
+		},
+		{
+			"chinese-character":"功课",
+			"pronunciation":"gōngkè",
+			"translation":"homework,&nbsp;assignment",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/homework-assignment-chinese-gongke.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	78.96503355,
+			"stop-time":	79.99010217
+		},
+		{
+			"chinese-character":"多",
+			"pronunciation":"duō",
+			"translation":"many,&nbsp;much",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/many-much-chinese-duo.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	82.16161658,
+			"stop-time":	82.83997414
+		},
+		{
+			"chinese-character":"门",
+			"pronunciation":"mén",
+			"translation":"(suffix used after a personal pronoun to show plural&nbsp;numbers)",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/suffix-show-plural-chinese-men.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	85.86271458,
+			"stop-time":	86.51939279
+		},
+		{
+			"chinese-character":"少",
+			"pronunciation":"shǎo",
+			"translation":"few,&nbsp;little",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/few-little-chinese-shao.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	77.65731785,
+			"stop-time":	78.46552498
+		},
+		{
+			"chinese-character":"忙",
+			"pronunciation":"máng",
+			"translation":"busy",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/busy-chinese-mang.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	72.99104695,
+			"stop-time":	73.57894928
+		},
+		{
+			"chinese-character":"累",
+			"pronunciation":"lèi",
+			"translation":"tired",
+			"lesson":"Lesson&nbsp;4",
+			"mp3": "audio/chin-041-chin/lesson_4/tired-chinese-lei.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	89.05807432,
+			"stop-time":	89.60076037
+		}
+	],
+	"Lesson&nbsp;5": [
+		{
+			"chinese-character":"生日",
+			"pronunciation":"shēngrì",
+			"translation":"birthday ",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/birthday-chinese-shengri.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	94.32071994,
+			"stop-time":	95.52114891
+		},
+		{
+			"chinese-character":"岁",
+			"pronunciation":"suì",
+			"translation":"years of&nbsp;age",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/years-of-age-chinese-sui.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	116.781525,
+			"stop-time":	117.4749698
+		},
+		{
+			"chinese-character":"朋友",
+			"pronunciation":"péngyou",
+			"translation":"friend",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/friend-chinese-pengyou.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	97.82545785,
+			"stop-time":	99.05343341
+		},
+		{
+			"chinese-character":"来",
+			"pronunciation":"lái",
+			"translation":"to come (also used before a verb to indicate that one is about to do&nbsp;something)",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/to-come-chinese-lai.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	110.2982435,
+			"stop-time":	111.0732634
+		},
+		{
+			"chinese-character":"介绍",
+			"pronunciation":"jièshào",
+			"translation":"to introduce,&nbsp;introduction",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/introduction-chinese-jieshao.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	102.7954435,
+			"stop-time":	103.7948005
+		},
+		{
+			"chinese-character":"一下",
+			"pronunciation":"yīxià",
+			"translation":"(used after a verb to indicate a brief&nbsp;action)",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/action-chinese-yixia.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	91.28427416,
+			"stop-time":	92.48019509
+		},
+		{
+			"chinese-character":"室友",
+			"pronunciation":"shìyǒu",
+			"translation":"roommate",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/roomate-chinese-shiyou.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	106.802567,
+			"stop-time":	108.0551216
+		},
+		{
+			"chinese-character":"有",
+			"pronunciation":"yǒu",
+			"translation":"to have, there&nbsp;is/are",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/to-have-chinese-you.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	111.5727719,
+			"stop-time":	112.3980824
+		},
+		{
+			"chinese-character":"几",
+			"pronunciation":"jī",
+			"translation":"how&nbsp;many",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/how-many-chinese-ji.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	101.3781305,
+			"stop-time":	102.295935
+		},
+		{
+			"chinese-character":"两",
+			"pronunciation":"liǎng",
+			"translation":"two",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/two-chinese-liang.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	114.3104867,
+			"stop-time":	115.1671042
+		},
+		{
+			"chinese-character":"个",
+			"pronunciation":"gè",
+			"translation":"(the most commonly used measure word for people, characters, things in&nbsp;general)",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/measure-word-people-chinese-ge.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	104.2943091,
+			"stop-time":	105.089717
+		},
+		{
+			"chinese-character":"都",
+			"pronunciation":"dōu",
+			"translation":"all,&nbsp;both ",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/all-both-chinese-dou.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	92.97970366,
+			"stop-time":	93.82121137
+		},
+		{
+			"chinese-character":"常",
+			"pronunciation":"cháng",
+			"translation":"often,&nbsp;frequently",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/often-chinese-chang.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	105.5892256,
+			"stop-time":	106.3030584
+		},
+		{
+			"chinese-character":"跟",
+			"pronunciation":"gēn",
+			"translation":"with",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/with-chinese-gen.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	115.6666128,
+			"stop-time":	116.2820164
+		},
+		{
+			"chinese-character":"没有",
+			"pronunciation":"méiyǒu",
+			"translation":"to not have, to be without, there&nbsp;isn’t/aren’t",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/to-be-without-chinese-meiyou.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	108.5546301,
+			"stop-time":	109.798735
+		},
+		{
+			"chinese-character":"女朋友",
+			"pronunciation":"nǚpéngyou",
+			"translation":"girlfriend",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/girlfriend-chinese-nupengyou.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	99.55294198,
+			"stop-time":	100.8786219
+		},
+		{
+			"chinese-character":"男朋友",
+			"pronunciation":"nánpéngyou",
+			"translation":"boyfriend",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/boyfriend-chinese-nanpengyou.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	96.02065749,
+			"stop-time":	97.32594927
+		},
+		{
+			"chinese-character":"认识",
+			"pronunciation":"rènshi",
+			"translation":"to know, to recognize, to be acquainted with/familiar&nbsp;with",
+			"lesson":"Lesson&nbsp;5",
+			"mp3": "audio/chin-041-chin/lesson_5/to-know-chinese-renshi.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	112.897591,
+			"stop-time":	113.8109781
+		}
+	],
+	"Lesson&nbsp;6": [
+		{
+			"chinese-character":"家",
+			"pronunciation":"jiā",
+			"translation":"home,&nbsp;family",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/home-family-chinese-jia.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	223.4484205,
+			"stop-time":	224.2074017
+		},
+		{
+			"chinese-character":"大家",
+			"pronunciation":"dàjiā",
+			"translation":"all,&nbsp;everyone",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/all-everyone-chinese-dajia.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	117.9744783,
+			"stop-time":	118.9106548
+		},
+		{
+			"chinese-character":"从",
+			"pronunciation":"cóng",
+			"translation":"from",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/from-chinese-cong.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	222.1687951,
+			"stop-time":	222.9489119
+		},
+		{
+			"chinese-character":"在",
+			"pronunciation":"zài",
+			"translation":"to be at, to be&nbsp;in",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/to-be-at-chinese-zai.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	230.7109353,
+			"stop-time":	231.3740471
+		},
+		{
+			"chinese-character":"爸爸",
+			"pronunciation":"bàba",
+			"translation":"father",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/father-chinese-baba.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	220.9476609,
+			"stop-time":	221.6692865
+		},
+		{
+			"chinese-character":"妈妈",
+			"pronunciation":"māma",
+			"translation":"mother",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/mother-chinese-mama.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	226.9364855,
+			"stop-time":	227.8531347
+		},
+		{
+			"chinese-character":"姐姐",
+			"pronunciation":"jiějie",
+			"translation":"elder&nbsp;sister",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/elder-sister-chinese-jiejie.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	219.747,
+			"stop-time":	220.665
+		},
+		{
+			"chinese-character":"哥哥",
+			"pronunciation":"gēge",
+			"translation":"elder&nbsp;brother",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/elder-brother-chinese-gege.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	171.092,
+			"stop-time":	172.092
+		},
+		{
+			"chinese-character":"妹妹",
+			"pronunciation":"mèimei",
+			"translation":"younger&nbsp;sister",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/younger-sister-chinese-meimei.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	235.8696469,
+			"stop-time":	236.688773
+		},
+		{
+			"chinese-character":"弟弟",
+			"pronunciation":"dìdi",
+			"translation":"younger&nbsp;brother",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/yougner-brother-chinese-didi.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	234.7283208,
+			"stop-time":	235.3701384
+		},
+		{
+			"chinese-character":"兄弟姐妹",
+			"pronunciation":"xiōngdìjiěmèi",
+			"translation":"siblings",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/siblings-chinese-xiongdijiemei.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	228.3526432,
+			"stop-time":	230.2114268
+		},
+		{
+			"chinese-character":"工作",
+			"pronunciation":"gōngzuò",
+			"translation":"work",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/work-chinese-gongzuo.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	233.1756307,
+			"stop-time":	234.2288123
+		},
+		{
+			"chinese-character":"辆",
+			"pronunciation":"liàng",
+			"translation":"(measure word for&nbsp;vehicles)",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/measure-vehicles-chinese-liang.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	114.3104867,
+			"stop-time":	115.1671042
+		},
+		{
+			"chinese-character":"车",
+			"pronunciation":"chē",
+			"translation":"car",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/car-chinese-che.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	121.3985246,
+			"stop-time":	122.0721703
+		},
+		{
+			"chinese-character":"只",
+			"pronunciation":"zhī",
+			"translation":"(measure word for certain animals, or for one of a&nbsp;pair)",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/measure-animals-chinese-zhi.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	224.7069103,
+			"stop-time":	225.2743565
+		},
+		{
+			"chinese-character":"狗",
+			"pronunciation":"gǒu",
+			"translation":"dog",
+			"lesson":"Lesson&nbsp;6",
+			"mp3": "audio/chin-041-chin/lesson_6/dog-chinese-gou.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	122.5716789,
+			"stop-time":	123.3167735
+		}
+	],
+	"Lesson&nbsp;7": [
+		{
+			"chinese-character":"住",
+			"pronunciation":"zhù",
+			"translation":"to&nbsp;live",
+			"lesson":"Lesson&nbsp;7",
+			"mp3": "audio/chin-041-chin/lesson_7/to-live-chinese-zhu.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	243.8767127,
+			"stop-time":	244.4338064
+		},
+		{
+			"chinese-character":"哪儿",
+			"pronunciation":"nǎ&nbsp;ér",
+			"translation":"where?",
+			"lesson":"Lesson&nbsp;7",
+			"mp3": "audio/chin-041-chin/lesson_7/where-chinese-naer.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	244.9333149,
+			"stop-time":	245.5816793
+		},
+		{
+			"chinese-character":"号码",
+			"pronunciation":"hàomǎ",
+			"translation":"number",
+			"lesson":"Lesson&nbsp;7",
+			"mp3": "audio/chin-041-chin/lesson_7/number-chinese-haoma.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	239.8697705,
+			"stop-time":	240.7292877
+		},
+		{
+			"chinese-character":"电话",
+			"pronunciation":"diànhuà",
+			"translation":"phone",
+			"lesson":"Lesson&nbsp;7",
+			"mp3": "audio/chin-041-chin/lesson_7/phone-chinese-dianhau.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	241.2287963,
+			"stop-time":	242.0022077
+		},
+		{
+			"chinese-character":"手机",
+			"pronunciation":"shǒujī",
+			"translation":"cell&nbsp;phone",
+			"lesson":"Lesson&nbsp;7",
+			"mp3": "audio/chin-041-chin/lesson_7/cellphone-chinese-shouji.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	238.1971304,
+			"stop-time":	239.3702619
+		},
+		{
+			"chinese-character":"大",
+			"pronunciation":"dà",
+			"translation":"big",
+			"lesson":"Lesson&nbsp;7",
+			"mp3": "audio/chin-041-chin/lesson_7/big-chinese-da.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	237.1882816,
+			"stop-time":	237.6976218
+		},
+		{
+			"chinese-character":"小",
+			"pronunciation":"xiǎo",
+			"translation":"small",
+			"lesson":"Lesson&nbsp;7",
+			"mp3": "audio/chin-041-chin/lesson_7/small-chinese-xiao.mp3",
+			"single-mp3": "audio/All-Chinese.mp3",
+			"start-time":	242.5017163,
+			"stop-time":	243.3772042
+		}
+	]
+}

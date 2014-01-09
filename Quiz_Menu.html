@@ -1,0 +1,72 @@
+<html manifest="offline/cache.manifest">
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CHIN 041</title>
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/>
+	<meta name="author" content="Zac Eskelsen"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<link type="text/css" rel="apple-touch-icon-precomposed" href="images/chinese-app-icon.png?v=1" />
+	<link rel="stylesheet" type="text/css" href="all.css">
+	<link rel="stylesheet" type="text/css" href="Quiz.css">
+    <link rel="stylesheet" type="text/css" href="Quiz_Menu.css">
+	<script type="text/javascript" src="includes/assets/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="includes/assets/jquery.jplayer.min.js"></script>  <!--included for jplayer-->
+	<script type="text/javascript" src="includes/assets/jquery.stayInWebApp.min.js"></script> <!--all html pages must contain all the same scripts or the page will leave the app-->
+	<script type="text/javascript" src="http://isdev.byu.edu/is/share/HTML_Resources/JavaScript/debug.lib.js"></script>
+	<script type="text/javascript" src="includes/assets/iPad.js"></script>
+	<script type="text/javascript" src="includes/assets/question.js"></script>
+	<script type="text/javascript" src="includes/assets/Quiz-a.js"></script>
+	<script type="text/javascript" src="includes/assets/application-cache.js"></script>	
+	<script>
+	IsLog.on();
+	IsLog.timerOn();
+	/*
+		jplayer configuration options
+	*/
+	//	These should be set to the ID of their corresponding elements.
+	var jplayerElementId = "#jPlayer";
+	var playButtonId = "#playMe-notrequiredforthispage";
+	var clickableElementHolder = "#character-list";
+	var clickableElementType = "div";
+	var defaultElementClasses = "thumbnails";
+	var clickableElementClasses = "click_background";
+	var contentElementType = "h3";
+	var clickableElementContentKey = "chinese-character"; //"chinese-character";
+	var clickableElementTitleKey = "translation";
+	var addWhiteSpaceToOutput = true;
+	//	This should be the path to your "default" mp3 file.
+	var singleAudioFile = "audio/All-Chinese.mp3";
+	//	This should be the path to your config json file.
+	var jsonConfigFile = "includes/assets/characters.json";
+	</script>
+	<script type="text/javascript" src="includes/assets/jplayer_config.js"></script>
+</head>
+
+<body id="qz-menu">
+    <a href="Quiz-a.html?Q=Numbers%26nbsp%3B0-10"><div class="lessons" id="numbers"><h2 class="lessonText">Numbers  零</h2></div></a>
+    <a href="Quiz-a.html?Q=Lesson%26nbsp%3B1"><div class="lessons" id="lesson-1"><h2 class="lessonText">Lesson 1  零</h2></div></a>
+    <a href="Quiz-a.html?Q=Lesson%26nbsp%3B2"><div class="lessons" id="lesson-2"><h2 class="lessonText">Lesson 2  零</h2></div></a>
+    <a href="Quiz-a.html?Q=Lesson%26nbsp%3B3"><div class="lessons" id="lesson-3"><h2 class="lessonText">Lesson 3  零</h2></div></a>
+    <a href="Quiz-a.html?Q=Lesson%26nbsp%3B4"><div class="lessons" id="lesson-4"><h2 class="lessonText">Lesson 4  零</h2></div></a>
+    <a href="Quiz-a.html?Q=Lesson%26nbsp%3B5"><div class="lessons" id="lesson-5"><h2 class="lessonText">Lesson 5  零</h2></div></a>
+    <a href="Quiz-a.html?Q=Lesson%26nbsp%3B6"><div class="lessons" id="lesson-6"><h2 class="lessonText">Lesson 6  零</h2></div></a>
+    <a href="Quiz-a.html?Q=Lesson%26nbsp%3B7"><div class="lessons" id="lesson-7"><h2 class="lessonText">Lesson 7  零</h2></div></a>
+
+    <nav>
+        <ul>
+            <li class="iPhoneMenu" showId="iPhoneMenuList"><span>Menu</span>
+                <ul id="iPhoneMenuList">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="vocab.html">Vocabulary</a></li>
+                    <li><a href="Quiz_Menu.html">Quiz</a></li>
+                    <li><a href="contact_us.html">Contact Us</a></li>
+                    <li><a href="help_page.html">Help Page</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+</body>
+</html>

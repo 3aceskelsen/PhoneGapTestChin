@@ -1,0 +1,132 @@
+<html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CHIN 041</title>
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/>
+	<meta name="author" content="Zac Eskelsen"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<link type="text/css" rel="apple-touch-icon-precomposed" href="images/chinese-app-icon.png?v=1" />
+	<link rel="stylesheet" type="text/css" href="all.css">
+	<link rel="stylesheet" type="text/css" href="Quiz.css">
+    <link rel="stylesheet" type="text/css" href="Quiz_Menu.css">
+	<script type="text/javascript" src="includes/assets/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="includes/assets/jquery.jplayer.min.js"></script>  <!--included for jplayer-->
+	<script type="text/javascript" src="includes/assets/jquery.stayInWebApp.min.js"></script> <!--all html pages must contain all the same scripts or the page will leave the app-->
+	<script type="text/javascript" src="http://isdev.byu.edu/is/share/HTML_Resources/JavaScript/debug.lib.js"></script>
+	<script type="text/javascript" src="includes/assets/iPad.js"></script>
+	<script type="text/javascript" src="includes/assets/question.js"></script>
+	<script type="text/javascript" src="includes/assets/Quiz-a.js"></script>
+	<script type="text/javascript" src="includes/assets/application-cache.js"></script>	
+	<script>
+ 	IsLog.on();
+ 	IsLog.timerOn();
+	/*
+		jplayer configuration options
+	*/
+	//	These should be set to the ID of their corresponding elements.
+	var jplayerElementId = "#jPlayer";
+	var playButtonId = "#playMe-notrequiredforthispage";
+	var clickableElementHolder = "#character-list";
+	var clickableElementType = "div";
+	var defaultElementClasses = "thumbnails";
+	var clickableElementClasses = "click_background";
+	var contentElementType = "h3";
+	var clickableElementContentKey = "chinese-character"; //"chinese-character";
+	var clickableElementTitleKey = "translation";
+	var addWhiteSpaceToOutput = true;
+	//	This should be the path to your "default" mp3 file.
+	var singleAudioFile = "audio/All-Chinese.mp3";
+	//	This should be the path to your config json file.
+	var jsonConfigFile = "includes/assets/characters.json";
+	</script>
+	<script type="text/javascript" src="includes/assets/jplayer_config.js"></script>
+</head>
+
+<style>
+	#loading-div{
+		background:			#b8b9b0;
+		text-align:			center;
+		display:			table;
+		position:			fixed;
+		padding:			5px;
+		height:				10%;
+		width:				66%;
+		top:				40%;
+		right:				16.5%;
+		border-radius:		10px;
+	}
+	#loading-text{
+		display:			table-cell;
+		vertical-align:		middle;
+	}
+	#loaded-percent {
+		display:			table;
+		height: 			100%;
+		width: 				0%;
+		background:			#0FF;
+		border-radius:		10px;
+	}
+	#offlineLoad{
+		height:				0;
+		width:				0;
+	}
+</style>
+
+<script>
+	var pages = ["index.html",
+				 "vocab.html",
+				 "Quiz_Menu.html",
+				 "Quiz-a.html",
+				 "contact_us.html",
+				 "help_page.html",
+				 "Quiz-a.html?Q=Numbers%26nbsp%3B0-10",
+				 "Quiz-a.html?Q=Lesson%26nbsp%3B1",
+				 "Quiz-a.html?Q=Lesson%26nbsp%3B2",
+				 "Quiz-a.html?Q=Lesson%26nbsp%3B3",
+				 "Quiz-a.html?Q=Lesson%26nbsp%3B4",
+				 "Quiz-a.html?Q=Lesson%26nbsp%3B5",
+				 "Quiz-a.html?Q=Lesson%26nbsp%3B6",
+				 "Quiz-a.html?Q=Lesson%26nbsp%3B7"],
+		pageCount = pages.length,
+		loadIFrame = function() {
+			var page = pages.shift();
+			$("#offlineLoad").attr("src", page);
+			if(pages.length > 0){
+				//loadIFrame();
+			}
+			else{
+				IsLog.c("IFRAME PAGES LOADED!");
+				window.location = "index.html";
+			}
+			$("#loaded-percent").css("width", (((pageCount - pages.length) / pageCount)*100)+"%");
+			$("#loading-text").html(Math.round((((pageCount - pages.length) / pageCount)*100))+"%");
+		};
+		
+		
+	$(document).ready(function(){
+		$("#offlineLoad").bind("load", loadIFrame);
+		loadIFrame();
+	});
+	
+</script>
+
+<body background=#FFF>
+	<div class="filler2">
+		&nbsp;
+	</div>		
+	<div class="filler3">
+		&nbsp;
+	</div>
+	
+    <div id="loading-div">
+    	<div id="loaded-percent">
+			<h1 id="loading-text"></h1>&nbsp;</div>
+	</div>
+
+    <iframe id="offlineLoad"></iframe>
+    
+</body>
+</html>

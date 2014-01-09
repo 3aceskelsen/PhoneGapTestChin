@@ -1,0 +1,104 @@
+body h1{
+
+	}	
+/* Global Layout */
+nav { 
+
+	}
+nav a {
+
+	}
+footer {
+
+	}
+															/* Page-specific Layout/style Landscape*/
+.beautiful1, .friendship1, .truth1, .wisdom1 {		/*Allows for transitions on homepage symbols between portrait and landscape*/
+
+}
+	/*home landscape*/
+.home_main {
+
+}
+.home_main p {
+
+}
+											/*help page*/
+.help_page p {
+
+}
+											/*vocab page*/
+#play-button {
+
+}
+body.style2 {  			
+
+}
+	/*vocab landscape*/
+.filler {
+	
+}
+.filler3 {		/*Fillers used to hide scrolling in unwanted areas (top and bottom of page)*/
+	background-color: red;
+}
+.filler2 {
+
+}
+#lesson-title {
+
+}
+#vocab_define {
+
+}
+#vocab_define h1 {
+
+}
+/*#vocab_define p.font-normal{
+
+}
+#vocab_define p.font-bold{
+
+}	*/
+#vocab_define #chinese-character {
+
+}
+.caption {
+
+}
+.vocab_img h1{  /*made for current modifications with text symbols*/
+
+}
+.vocab_img {
+
+}
+.vocab_vocab .thumbnails img {
+
+}
+/*List of vocabulary terms*/
+.vocab_vocab {
+
+}
+.vocab_vocab .thumbnails {
+
+}
+.vocab_vocab .thumbnails h3 {
+
+}
+.vocab_instruction {
+
+}
+.vocab_instruction h1 {
+
+}
+.lesson_choice {
+
+}
+select {
+
+}
+	/*contact us landscape*/
+.contact_contact-us { 
+
+}
+.contact_content p {
+
+}	

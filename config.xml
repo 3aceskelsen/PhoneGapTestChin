@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+	xmlns:gap   = "http://phonegap.com/ns/1.0"
+	id          = "com.phonegap.example"
+	version     = "0.0.1">
+
+	<name>Chin 041</name>
+	
+	<description>Demo for PhoneGap</description>
+	
+	<author href="http://lynda.com" email="support@lynda.com">Chris Converse</author>
+	
+	<preference name="webviewbounce" value="false" />
+	<preference name="prerendered-icon" value="true" />
+	<preference name="ios-statusbarstyle" value="black-translucent" />
+	<preference name="fullscreen" value="true" />
+	
+	<icon src="chinese-app-icon.png" />
+	
+	<gap:splash src="assets/images/template/startup_landscape.jpg" gap:platform="ios" width="1024" height="768" />
+	<gap:splash src="assets/images/template/startup_portrait.jpg" gap:platform="ios" width="768" height="1024" />
+
+</widget>

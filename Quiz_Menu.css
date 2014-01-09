@@ -1,0 +1,135 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#qz-menu{
+	background:	#b8b9b0;
+	/*text-align: center;*/
+}
+.lessons{
+	background-color:	#FFF;
+	text-align:			center;
+	display:			table;
+	position:			fixed;
+	border-radius:		10px;
+	height:				9%;
+	width:				94.872%;
+}
+#numbers{
+	top:	2.25%;
+	right:	2.564%;
+}
+#lesson-1{
+	top:	13.5%;
+	right:	2.564%;
+	}
+#lesson-2{
+	top:	24.75%;
+	right:	2.564%;
+}
+#lesson-3{
+	top:	36%;
+	right:	2.564%;
+}
+#lesson-4{
+	top:	47.25%;
+	right:	2.564%;
+}
+#lesson-5{
+	top:	58.5%;
+	right:	2.564%;
+}
+#lesson-6{
+	top:	69.75%;
+	right:	2.564%;
+}
+#lesson-7{
+	top:	81%;
+	right:	2.564%;
+}
+.lessonText{
+	display:			table-cell;
+	vertical-align:		middle;
+	top: 				50%;
+}
+@media all and (min-width: 480px) and (max-width: 568px) {   /*Landscape iPhone <= 5*/
+		.lessons{
+			height:	20%;
+			width:	46.154%;
+		}
+		#numbers{
+			top:	4%;
+			right: 	51.436%;
+		}
+		#lesson-1{
+			top:	4%;
+			right: 	2.564%;
+		}
+		#lesson-2{
+			top:	26%;
+			right: 	51.436%;
+		}
+		#lesson-3{
+			top:	26%;
+			right: 	2.564%;
+		}
+		#lesson-4{
+			top:	48%;
+			right:	51.436%;
+		}
+		#lesson-5{
+			top:	48%;
+			right:	2.564%;
+		}
+		#lesson-6{
+			top:	70%;
+			right:	51.436%;
+		}
+		#lesson-7{
+			top:	70%;
+			right:	2.564%;
+		}
+		.lessonText{
+			top:	50%;
+		}
+}
+@media screen and (min-width: 1024px){    /* ipad landscape */
+			.lessons{
+				height:	20%;
+				width:	46.154%;
+			}
+			#numbers{
+				top:	4%;
+				right: 	51.436%;
+			}
+			#lesson-1{
+				top:	4%;
+				right: 	2.564%;
+			}
+			#lesson-2{
+				top:	26%;
+				right: 	51.436%;
+			}
+			#lesson-3{
+				top:	26%;
+				right: 	2.564%;
+			}
+			#lesson-4{
+				top:	48%;
+				right:	51.436%;
+			}
+			#lesson-5{
+				top:	48%;
+				right:	2.564%;
+			}
+			#lesson-6{
+				top:	70%;
+				right:	51.436%;
+			}
+			#lesson-7{
+				top:	70%;
+				right:	2.564%;
+			}
+			.lessonText{
+				top:	50%;
+			}
+}

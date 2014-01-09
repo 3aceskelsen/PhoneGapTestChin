@@ -1,0 +1,142 @@
+{
+	"Numbers&nbsp;0-10": [
+		{
+			"chinese-character":"零",
+			"pronunciation":"líng",
+			"translation":"zero",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	13.621,
+			"stop-time":	14.176
+		},
+		{
+			"chinese-character":"一",
+			"pronunciation":"yī",
+			"translation":"one",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	5.696,
+			"stop-time":	6.254
+		},
+		{
+			"chinese-character":"二",
+			"pronunciation":"èr",
+			"translation":"two",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	12.423,
+			"stop-time":	12.852
+		},
+		{
+			"chinese-character":"三",
+			"pronunciation":"sān",
+			"translation":"three",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	11.01,
+			"stop-time":	11.578
+		},
+		{
+			"chinese-character":"四",
+			"pronunciation":"sì",
+			"translation":"four",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	2.785,
+			"stop-time":	3.365
+		},
+		{
+			"chinese-character":"五",
+			"pronunciation":"wǔ",
+			"translation":"five",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	1.441,
+			"stop-time":	2.043
+		},
+		{
+			"chinese-character":"六",
+			"pronunciation":"liù",
+			"translation":"six",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	8.374,
+			"stop-time":	8.899
+		},
+		{
+			"chinese-character":"七",
+			"pronunciation":"qī",
+			"translation":"seven",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	7.08,
+			"stop-time":	7.59
+		},
+		{
+			"chinese-character":"八",
+			"pronunciation":"bā",
+			"translation":"eight",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	0.223,
+			"stop-time":	0.629
+		},
+		{
+			"chinese-character":"九",
+			"pronunciation":"jiǔ",
+			"translation":"nine",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	4.156,
+			"stop-time":	4.863
+		},
+		{
+			"chinese-character":"十",
+			"pronunciation":"shí",
+			"translation":"ten",
+			"lesson":"Numbers&nbsp;0-10",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	9.674,
+			"stop-time":	10.255
+		}
+	],
+	"Numbers": [
+		{
+			"Song":"Radio Active",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	100,
+			"stop-time":	102.5
+		},
+		{
+			"Song":"Radio Active 2",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	101.5,
+			"stop-time":	104
+		},
+		{
+			"Song":"Radio Active 3",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	102,
+			"stop-time":	102.5
+		},
+		{
+			"Song":"Radio Active 4",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	150.5,
+			"stop-time":	151.5
+		},
+		{
+			"Song":"Beauty and a beat",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	10,
+			"stop-time":	10.15
+		},
+		{
+			"Song":"Thrift-Shop",
+			"mp3": "audio/All-Chinese.mp3",
+			"start-time":	0,
+			"stop-time":	10.5
+		}
+	]
+}
+	
